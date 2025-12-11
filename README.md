@@ -88,3 +88,6 @@ Deploy as a Web App using Flask or Streamlit
 Add more visualizations for EDA
 
 Improve dataset with more patient records
+
+
+Output:
